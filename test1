@@ -1,0 +1,10 @@
+1.Acess help
+   example"rnorm"
+   ?rnorm
+    help.search("rnorm")
+    args("rnorm")
+如果想知道函数的代码，直接敲入 rnorm ，不需要带（）
+
+2.git bash
+git 分布式版本控制系统
+     什么是版本控制系统？
